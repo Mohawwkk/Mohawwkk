@@ -22,7 +22,7 @@ This GitHub is where I’m building my public journey — one project, one idea,
 - Privacy, decentralization & blockchain tech
 
 🤝 **Let’s connect**  
-- LinkedIn: [https://www.linkedin.com/in/mohakchaturvedi]   
+- LinkedIn: https://www.linkedin.com/in/mohakchaturvedi   
 - Email: [mohakchaturvediwork@gmail.com]
 
 🧭 This profile is a blank canvas. Watch this space.
