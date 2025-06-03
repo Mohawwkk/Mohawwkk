@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**Mohawwkk/Mohawwkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity professional with 5+ years of experience and a growing passion for AI, automation, and problem-solving through code.
 
-Here are some ideas to get you started:
+This GitHub is where I’m building my public journey — one project, one idea, and one experiment at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **What I’m working on**  
+- Laying the foundation for practical AI tools and utilities  
+- Exploring malware analysis and reverse engineering  
+- Learning and applying Web 3.0 technologies (starting with Ethereum)  
+- Creating meaningful projects that solve real problems
+
+📚 **Currently learning**  
+- AI agent development with LLMs (OpenAI, LangChain)  
+- Smart contracts & Ethereum via "Mastering Ethereum"  
+- Low-level programming (C/C++ & Assembly) for security projects
+
+🔍 **Areas of Interest**  
+- Cybersecurity (Red/Blue team blend)  
+- AI for social and educational impact  
+- Open-source utilities for developers and learners  
+- Privacy, decentralization & blockchain tech
+
+🤝 **Let’s connect**  
+- LinkedIn: [https://www.linkedin.com/in/mohakchaturvedi]   
+- Email: [mohakchaturvediwork@gmail.com]
+
+🧭 This profile is a blank canvas. Watch this space.
+
