@@ -23,7 +23,7 @@ This GitHub is where I’m building my public journey — one project, one idea,
 
 🤝 **Let’s connect**  
 - LinkedIn: https://www.linkedin.com/in/mohakchaturvedi   
-- Email: [mohakchaturvediwork@gmail.com]
+- Email: mohakchaturvediwork@gmail.com
 
 🧭 This profile is a blank canvas. Watch this space.
 
