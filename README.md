@@ -9,6 +9,7 @@ This GitHub is where I’m building my public journey — one project, one idea,
 - Exploring malware analysis and reverse engineering  
 - Learning and applying Web 3.0 technologies (starting with Ethereum)  
 - Creating meaningful projects that solve real problems
+- GHSA-6xf2-487c-429c reported to appify
 
 📚 **Currently learning**  
 - AI agent development with LLMs (OpenAI, LangChain)  
